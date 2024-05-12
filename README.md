@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @preetammnaik
-- 👀 I’m interested in  Data Analytics, Data Science,Software Development
+- 👀 I’m interested in  Data Science and Software Development
 - 🌱 I’m currently learning Data Science and Development Techniques
 
 <!---
